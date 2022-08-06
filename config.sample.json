@@ -1,0 +1,6 @@
+{
+  "clientId": "APPLICATION_CLIENT_ID",
+  "guildId": "DISCORD_SERVER_ID",
+  "token": "APPLICATION_BOT_TOKEN",
+  "spreadsheetid" : "GOOGLE_SPREADSHEET_ID"
+}
