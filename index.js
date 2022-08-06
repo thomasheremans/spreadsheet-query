@@ -88,7 +88,6 @@ async function findData() {
             } else {
                 //Save info
                 const name = data[index][1]
-                const captain = data[index][2]
 
                 //Reply
                 await interaction.reply("**Cluster Name: **"+name);
@@ -106,7 +105,6 @@ async function findData() {
 
             //Store data
             const data = getRows.data.values
-            console.log(data)
 
             //Create list of all clusters
             var clusters = "**All cluster names:**"
