@@ -29,8 +29,8 @@ cp config.sample.json config.json
     6. Place downloaded JSON in this repository
 
 ## How to Run:
-# First time only
+### First time only
 1. Rune `npm i` to install the dependencies 
 2. Run `node deploy_commands.js` to sync the bot with you discord server, which is specified by `guildId`.
-# Each time before running the discord commands
+### Each time before running the discord commands
 1. Run `node index.js`.
